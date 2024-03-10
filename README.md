@@ -1,5 +1,7 @@
 # Movie Prediction
 
+I did this project to check out scikit learn and basic prediction algoritms
+
 This project demonstrates the usage of the `cosine_similarity` function from the `sklearn` library for calculating similarity between movie ratings. It also involves data preprocessing techniques.
 
 ## Getting Started
